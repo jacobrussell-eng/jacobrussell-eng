@@ -33,7 +33,10 @@ Here are some ideas to get you started:
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=jacobrussell-eng&theme=codeSTACKr&hide_border=false)<br/> -->
 ## 🔗 Find me elsewhere:
 <a href="https://www.linkedin.com/in/jacobrussell-eng">![linkedin-icon](linkedin-color.svg)</a>
-## 🎧 Currently Listening to:
- [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=blabber_boy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+## 🎧 What I listen to:
+<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=blabber_boy">
+  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=blabber_boy" alt="Data Card for Spotify">
+</a>
+ <!-- [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=blabber_boy&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
